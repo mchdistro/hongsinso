@@ -503,6 +503,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/files/servers.dat",
+            "MD5": "b0280f48f39e555679dd863286801910",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.5.1.zip",
           "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
