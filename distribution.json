@@ -521,6 +521,16 @@
           }
         },
         {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 394,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
