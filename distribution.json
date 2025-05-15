@@ -481,6 +481,16 @@
           }
         },
         {
+          "id": "tomatopuddin.playernametweaks:playernametweaks:1.1@jar",
+          "name": "PlayerNameTweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27838,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/forgemods/required/PlayerNameTweaks-forge-1.19.x+1.20.x-1.1.jar",
+            "MD5": "11cf4d4eee4676e04d0aa2c3286e64b6"
+          }
+        },
+        {
           "id": "com.vicmatskiv:pointblank:1.9.6@jar",
           "name": "Point Blank",
           "type": "ForgeMod",
@@ -488,6 +498,16 @@
             "size": 17401034,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/forgemods/required/pointblank-forge-1.20.1-1.9.6.jar",
             "MD5": "35137bad907310234a0198ba11df79a3"
+          }
+        },
+        {
+          "id": "dev.furq.resourcepackcached:rpc:1.1.2@jar",
+          "name": "ResourcePackCached",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12998,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/forgemods/required/rpc-1.1.2+1.20.1-forge.jar",
+            "MD5": "4122feb1c794309f0fa33a84fefb32db"
           }
         },
         {
