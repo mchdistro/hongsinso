@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "hongsinso-1.20.1",
+      "id": "hongsinso_v1-1.20.1",
       "name": "홍신소",
       "description": "Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/mchdistro/hongsinso/raw/main/server-icon.png",
@@ -438,8 +438,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/forgemods/optionaloff/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -448,7 +452,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1012500,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
             "MD5": "b5e9905073787ed9ab392aaf22b65a40"
           }
         },
@@ -458,7 +462,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 199753,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/forgemods/required/koreanpatch-forge-1.6.13+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/forgemods/required/koreanpatch-forge-1.6.13+mc1.20.1.jar",
             "MD5": "25d09b12e7dbfcdb70d8c6f87d2ee0c1"
           }
         },
@@ -468,8 +472,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/forgemods/optionaloff/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -478,8 +486,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 17401034,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/forgemods/required/pointblank-forge-1.20.1-1.9.6.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/forgemods/required/pointblank-forge-1.20.1-1.9.6.jar",
             "MD5": "35137bad907310234a0198ba11df79a3"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6638739,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "81d63853c4a4a12cceb8629f053015ae"
           }
         },
         {
@@ -488,7 +506,7 @@
           "type": "File",
           "artifact": {
             "size": 285,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/files/config/oculus.properties",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
           }
         },
@@ -498,7 +516,7 @@
           "type": "File",
           "artifact": {
             "size": 3723,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/files/options.txt",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -508,7 +526,7 @@
           "type": "File",
           "artifact": {
             "size": 160,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/files/servers.dat",
             "MD5": "b0280f48f39e555679dd863286801910",
             "path": "servers.dat"
           }
@@ -519,7 +537,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
