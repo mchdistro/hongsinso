@@ -4,14 +4,14 @@
     "version": "1.0.0",
     "name": "홍신소",
     "description": "Minecraft 1.20.1 (Forge v47.4.0)",
-    "icon": "https://github.com/mchdistro/hongsinso/raw/main/server-icon.png",
+    "icon": "https://github.com/mchdistro/hongsinso/raw/main/hongsinso-1.20.1/server-icon.png",
     "address": "mc.gotiger.dev:25561",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": true,
+    "mainServer": false,
     "autoconnect": true
   },
   "forge": {
