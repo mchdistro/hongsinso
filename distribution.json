@@ -11,7 +11,7 @@
       "id": "hongsinso_v1-1.20.1",
       "name": "홍신소",
       "description": "Minecraft 1.20.1 (Forge v47.4.0)",
-      "icon": "https://github.com/mchdistro/hongsinso/raw/main/hongsinso-1.20.1/server-icon.png",
+      "icon": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.20.1/server-icon.png",
       "version": "1.0.0",
       "address": "mc.gotiger.dev:25561",
       "minecraftVersion": "1.20.1",
@@ -586,9 +586,9 @@
     },
     {
       "id": "Joasseo-1.20.1",
-      "name": "홍신소",
-      "description": "Minecraft 1.20.1 (Forge v47.4.0)",
-      "icon": "https://github.com/mchdistro/hongsinso/raw/main/hongsinso_v1-1.20.1/server-icon.png",
+      "name": "죠아써",
+      "description": "Minecraft 1.20.1 (Forge v47.4.8)",
+      "icon": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso_v1-1.20.1/server-icon.png",
       "version": "1.0.0",
       "address": "mc.gotiger.dev:25562",
       "minecraftVersion": "1.20.1",
@@ -3171,6 +3171,27 @@
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/mods/CustomView/ffmpeg/LICENSE.txt",
             "MD5": "e6a600fd5e1d9cbde2d983680233ad02",
             "path": "mods/CustomView/ffmpeg/LICENSE.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/servers.dat",
+            "MD5": "5e4fe540114ff456ecbc6740a301a291",
+            "path": "servers.dat"
           }
         }
       ]
