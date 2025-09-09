@@ -502,6 +502,16 @@
           }
         },
         {
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6638739,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "81d63853c4a4a12cceb8629f053015ae"
+          }
+        },
+        {
           "id": "oculus.properties",
           "name": "oculus.properties",
           "type": "File",
