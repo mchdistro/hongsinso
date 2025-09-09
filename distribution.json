@@ -463,6 +463,16 @@
           }
         },
         {
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6638739,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "81d63853c4a4a12cceb8629f053015ae"
+          }
+        },
+        {
           "id": "avcodec-59.dll",
           "name": "avcodec-59.dll",
           "type": "File",
@@ -2604,6 +2614,28 @@
             "size": 84,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip",
+          "name": "Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1219135,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/resourcepacks/Mizunos%2016%20Craft%20JE%20CIT_1.20.1-1.0_230720.zip",
+            "MD5": "a10d3d46f7660ec2b3cc1416bd9482f4",
+            "path": "resourcepacks/Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip"
+          }
+        },
+        {
+          "id": "Mizunos 16 Craft JE_1.20.1-1.0_230720.zip",
+          "name": "Mizunos 16 Craft JE_1.20.1-1.0_230720.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10476087,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/resourcepacks/Mizunos%2016%20Craft%20JE_1.20.1-1.0_230720.zip",
+            "MD5": "21c01711e2dd5c3f5679e55d8775dfd9",
+            "path": "resourcepacks/Mizunos 16 Craft JE_1.20.1-1.0_230720.zip"
           }
         },
         {
