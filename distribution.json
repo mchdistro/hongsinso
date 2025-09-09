@@ -477,7 +477,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 333,
+            "size": 345,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo_v1-1.20.1/files/options.txt",
             "path": "options.txt"
           }
