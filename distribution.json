@@ -492,6 +492,20 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6638739,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/optionaloff/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "81d63853c4a4a12cceb8629f053015ae"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
@@ -499,16 +513,6 @@
             "size": 5825402,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
-          }
-        },
-        {
-          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
-          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 6638739,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
-            "MD5": "81d63853c4a4a12cceb8629f053015ae"
           }
         },
         {
