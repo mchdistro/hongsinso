@@ -463,13 +463,13 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
-          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
-          "type": "Library",
+          "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 6638739,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
-            "MD5": "81d63853c4a4a12cceb8629f053015ae"
+            "size": 5825402,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         },
         {
@@ -2647,6 +2647,28 @@
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/servers.dat",
             "MD5": "5e4fe540114ff456ecbc6740a301a291",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.4.zip",
+          "name": "ComplementaryUnbound_r5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 452408,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
+            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142509,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "MD5": "73ac2677df6b146ff789c06c73ca67d1",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
           }
         }
       ]
