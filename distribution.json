@@ -483,6 +483,16 @@
           }
         },
         {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 20,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo_v1-1.20.1/files/optionsof.txt",
+            "path": "optionsof.txt"
+          }
+        },
+        {
           "id": "optionsshaders.txt",
           "name": "optionsshaders.txt",
           "type": "File",
