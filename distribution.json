@@ -448,8 +448,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 284249,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/required/CustomView-1.20.1-1.1.5.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/optionalon/CustomView-1.20.1-1.1.5.jar",
             "MD5": "b26771335fc3f351dbf94ab7b855131b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -458,8 +461,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -478,8 +484,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
+          },
+          "required": {
+            "value": false
           }
         },
         {
