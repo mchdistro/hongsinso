@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
           "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "ForgeMod",
@@ -463,6 +473,16 @@
           }
         },
         {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
           "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
@@ -470,6 +490,16 @@
             "size": 5825402,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 281,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/config/oculus.properties",
+            "path": "config/oculus.properties"
           }
         },
         {
@@ -2611,9 +2641,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 84,
+            "size": 333,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Invisible Item Frame Pack_1.20.1-1.0_230720.zip",
+          "name": "Invisible Item Frame Pack_1.20.1-1.0_230720.zip",
+          "type": "File",
+          "artifact": {
+            "size": 8888,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo-1.20.1/files/resourcepacks/Invisible%20Item%20Frame%20Pack_1.20.1-1.0_230720.zip",
+            "MD5": "c64d954eddd8324190a7507ba815ee28",
+            "path": "resourcepacks/Invisible Item Frame Pack_1.20.1-1.0_230720.zip"
           }
         },
         {
