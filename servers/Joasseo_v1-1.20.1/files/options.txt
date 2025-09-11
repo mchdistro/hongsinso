@@ -1,8 +1,0 @@
-version:3465
-resourcePacks:["vanilla","mod_resources","file/Mizunos 16 Craft JE_1.20.1-1.0_230720.zip","file/Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip","file/Invisible Item Frame Pack_1.20.1-1.0_230720.zip"]
-lang:ko_kr
-narrator:0
-tutorialStep:none
-skipMultiplayerWarning:true
-onboardAccessibility:false
-key_key.chat:key.keyboard.enter
