@@ -22,6 +22,21 @@
       },
       "mainServer": true,
       "autoconnect": true,
+      "javaOptions": {
+        "supported": "=>21",
+        "suggestedMajor": 21,
+        "platformOptions": [
+          {
+            "platform": "win32",
+            "architecture": "x64",
+            "distribution": "TEMURIN"
+          }
+        ],
+        "ram": {
+          "minimum": 4096,
+          "recommended": 8192
+        }
+      },
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.18.1",
@@ -221,9 +236,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 72,
+            "size": 90,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.21.10/files/servers.dat",
-            "MD5": "0c822e5adbb3e8cc3aa1b8e07e56eb8b",
+            "MD5": "245421f285ddd1b4fd54e3bd0089dff4",
             "path": "servers.dat"
           }
         },
