@@ -952,13 +952,13 @@
           }
         },
         {
-          "id": "com.gitter:gtnick:2.0.3@jar",
+          "id": "com.gitter:gtnick:2.0.4@jar",
           "name": "GTNick",
           "type": "FabricMod",
           "artifact": {
-            "size": 106687,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/fabricmods/required/gtnick-fabric-1.21.1-2.0.3.jar",
-            "MD5": "fb17d9d973de30625dfb5a1293080911"
+            "size": 106230,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/fabricmods/required/gtnick-fabric-1.21.1-2.0.4.jar",
+            "MD5": "32a5eb495760d414ec0e302f4e7d598a"
           }
         },
         {
