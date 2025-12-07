@@ -952,6 +952,16 @@
           }
         },
         {
+          "id": "com.gitter:gtnick:2.0.3@jar",
+          "name": "GTNick",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 106687,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/fabricmods/required/gtnick-fabric-1.21.1-2.0.3.jar",
+            "MD5": "fb17d9d973de30625dfb5a1293080911"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
           "name": "Iris",
           "type": "FabricMod",
