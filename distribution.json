@@ -141,13 +141,13 @@
           }
         },
         {
-          "id": "com.gitter.gtdonationapi.fabric.v1_21_10:gtdonationapi:2.0.3@jar",
+          "id": "com.gitter.gtdonationapi.fabric.v1_21_10:gtdonationapi:2.0.4@jar",
           "name": "GT-DonationAPI",
           "type": "FabricMod",
           "artifact": {
-            "size": 8979235,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.21.10/fabricmods/required/GT-DonationAPI-fabric-1.21.10-2.0.3.jar",
-            "MD5": "0cc8280aaec2a0db53e60270d12fd088"
+            "size": 8983209,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/hongsinso-1.21.10/fabricmods/required/GT-DonationAPI-fabric-1.21.10-2.0.4.jar",
+            "MD5": "8621a96164d2ef19a088e6369f2fccf8"
           }
         },
         {
@@ -832,7 +832,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "javaOptions": {
         "supported": "=>21",
         "suggestedMajor": 21,
@@ -952,6 +952,16 @@
           }
         },
         {
+          "id": "com.gitter:gtnick:2.0.2@jar",
+          "name": "GTNick",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 106724,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/fabricmods/required/gtnick-fabric-1.21.1-2.0.2.jar",
+            "MD5": "c06732ac69ffdcd461e172523e8db90a"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -999,6 +1009,48 @@
             "size": 1297761,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/fabricmods/required/sodium-fabric-0.6.13+mc1.21.1.jar",
             "MD5": "aa37ba0048a1af6b554b137088cad484"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5141,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/files/servers.dat",
+            "MD5": "29e7c0d4728a318aa317db9fc18a2130",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.6.1.zip",
+          "name": "ComplementaryUnbound_r5.6.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 500699,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/rpgBootCamp-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "MD5": "3f83f81df2ad4608d830017425b45bac",
+            "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
           }
         }
       ]
