@@ -257,7 +257,7 @@
     },
     {
       "id": "Joasseo_v2.00-1.20.1",
-      "name": "죠아써",
+      "name": "죠아따라",
       "description": "Minecraft 1.20.1 (Forge v47.4.8)",
       "icon": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo_v2.00-1.20.1/server-icon.png",
       "version": "1.0.0",
@@ -788,9 +788,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 97,
+            "size": 100,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo_v2.00-1.20.1/files/servers.dat",
-            "MD5": "5e4fe540114ff456ecbc6740a301a291",
+            "MD5": "8d46c54d3bf2c32a22d98e8ce655b2e9",
             "path": "servers.dat"
           }
         },

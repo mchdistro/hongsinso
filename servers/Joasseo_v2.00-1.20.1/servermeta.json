@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/hongsinso/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "죠아써",
+    "name": "죠아따라",
     "description": "Minecraft 1.20.1 (Forge v47.4.8)",
     "icon": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo_v2.00-1.20.1/server-icon.png",
     "address": "mc.gotiger.dev:20009",
