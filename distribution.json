@@ -691,6 +691,16 @@
           }
         },
         {
+          "id": "immersive_paintings:immersive_paintings:0.6.7+1.20.1@jar",
+          "name": "Immersive Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4841253,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/Joasseo_v2.00-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "MD5": "e010b70ceecf34f91f223b8981f50f40"
+          }
+        },
+        {
           "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "ForgeMod",
