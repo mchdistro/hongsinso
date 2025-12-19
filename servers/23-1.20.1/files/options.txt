@@ -1,0 +1,10 @@
+version:3465
+resourcePacks:["vanilla","fabric","file/Vanilla Mashup 1.4.1b.zip","file/Lanterns+Enhanced v1.0.2.zip"]
+incompatibleResourcePacks:["file/Vanilla Mashup 1.4.1b.zip","file/Lanterns+Enhanced v1.0.2.zip"]
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+onboardAccessibility:false
+key_key.chat:key.keyboard.enter
+soundCategory_music:0.0
