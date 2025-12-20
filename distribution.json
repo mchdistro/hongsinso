@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "23-1.20.1",
-      "name": "23일",
+      "name": "못잠 연말 컨텐츠",
       "description": "Minecraft 1.20.1 (Fabric v0.18.3)",
       "icon": "https://github.com/mchdistro/hongsinso/raw/main/server-icon.png",
       "version": "1.0.0",
