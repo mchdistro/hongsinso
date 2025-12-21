@@ -561,6 +561,17 @@
           }
         },
         {
+          "id": "Vanilla Mashup 1.4.1b_box.zip",
+          "name": "Vanilla Mashup 1.4.1b_box.zip",
+          "type": "File",
+          "artifact": {
+            "size": 23284790,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/resourcepacks/Vanilla%20Mashup%201.4.1b_box.zip",
+            "MD5": "add951d7e238a55e4cfc1ddb67baae28",
+            "path": "resourcepacks/Vanilla Mashup 1.4.1b_box.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
