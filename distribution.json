@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "23-1.20.1",
+      "id": "23_v1-1.20.1",
       "name": "못잠 연말 컨텐츠",
       "description": "Minecraft 1.20.1 (Forge v47.4.8)",
       "icon": "https://github.com/mchdistro/hongsinso/raw/main/server-icon.png",
@@ -453,7 +453,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299727,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
             "MD5": "2974de2c633178ea632406ab5bede5bd"
           }
         },
@@ -463,7 +463,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4841253,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
             "MD5": "e010b70ceecf34f91f223b8981f50f40"
           }
         },
@@ -473,7 +473,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 315488,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/forgemods/required/koreanpatch-forge-1.9.0+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/forgemods/required/koreanpatch-forge-1.9.0+mc1.20.1.jar",
             "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17"
           }
         },
@@ -483,7 +483,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5825402,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         },
@@ -493,7 +493,7 @@
           "type": "Library",
           "artifact": {
             "size": 6638739,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
             "MD5": "81d63853c4a4a12cceb8629f053015ae"
           }
         },
@@ -503,7 +503,7 @@
           "type": "File",
           "artifact": {
             "size": 4024,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/options.txt",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -513,7 +513,7 @@
           "type": "File",
           "artifact": {
             "size": 1347,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/optionsof.txt",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/optionsof.txt",
             "path": "optionsof.txt"
           }
         },
@@ -522,8 +522,8 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 373,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/optionsshaders.txt",
+            "size": 381,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/optionsshaders.txt",
             "path": "optionsshaders.txt"
           }
         },
@@ -533,7 +533,7 @@
           "type": "File",
           "artifact": {
             "size": 8888,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/resourcepacks/Invisible%20Item%20Frame%20Pack_1.20.1-1.0_230720.zip",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/resourcepacks/Invisible%20Item%20Frame%20Pack_1.20.1-1.0_230720.zip",
             "MD5": "c64d954eddd8324190a7507ba815ee28",
             "path": "resourcepacks/Invisible Item Frame Pack_1.20.1-1.0_230720.zip"
           }
@@ -544,7 +544,7 @@
           "type": "File",
           "artifact": {
             "size": 1219135,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/resourcepacks/Mizunos%2016%20Craft%20JE%20CIT_1.20.1-1.0_230720.zip",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/resourcepacks/Mizunos%2016%20Craft%20JE%20CIT_1.20.1-1.0_230720.zip",
             "MD5": "a10d3d46f7660ec2b3cc1416bd9482f4",
             "path": "resourcepacks/Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip"
           }
@@ -555,7 +555,7 @@
           "type": "File",
           "artifact": {
             "size": 10476087,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/resourcepacks/Mizunos%2016%20Craft%20JE_1.20.1-1.0_230720.zip",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/resourcepacks/Mizunos%2016%20Craft%20JE_1.20.1-1.0_230720.zip",
             "MD5": "21c01711e2dd5c3f5679e55d8775dfd9",
             "path": "resourcepacks/Mizunos 16 Craft JE_1.20.1-1.0_230720.zip"
           }
@@ -566,9 +566,31 @@
           "type": "File",
           "artifact": {
             "size": 90,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/servers.dat",
             "MD5": "7fcef5fb805e04365576ce6db43c502f",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "AstraLex_v93.0.zip",
+          "name": "AstraLex_v93.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3184524,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/shaderpacks/AstraLex_v93.0.zip",
+            "MD5": "021c95bd3d217b4a7e45997d5127285b",
+            "path": "shaderpacks/AstraLex_v93.0.zip"
+          }
+        },
+        {
+          "id": "AstraLex_v93.0.zip.txt",
+          "name": "AstraLex_v93.0.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 417,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/shaderpacks/AstraLex_v93.0.zip.txt",
+            "MD5": "fa8a2e7b749f6ef22e72ec68799481be",
+            "path": "shaderpacks/AstraLex_v93.0.zip.txt"
           }
         },
         {
@@ -577,7 +599,7 @@
           "type": "File",
           "artifact": {
             "size": 452408,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
             "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
             "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
           }
@@ -588,7 +610,7 @@
           "type": "File",
           "artifact": {
             "size": 142509,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
             "MD5": "73ac2677df6b146ff789c06c73ca67d1",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
           }
