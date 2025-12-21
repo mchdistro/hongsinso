@@ -233,6 +233,16 @@
             "MD5": "021c95bd3d217b4a7e45997d5127285b",
             "path": "shaderpacks/AstraLex_v93.0.zip"
           }
+        },
+        {
+          "id": "AstraLex_v93.0.zip.txt",
+          "name": "AstraLex_v93.0.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 417,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23-1.20.1/files/shaderpacks/AstraLex_v93.0.zip.txt",
+            "path": "shaderpacks/AstraLex_v93.0.zip.txt"
+          }
         }
       ]
     },
