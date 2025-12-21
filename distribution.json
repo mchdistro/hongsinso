@@ -468,13 +468,13 @@
           }
         },
         {
-          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.5+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "ForgeMod",
           "artifact": {
-            "size": 315488,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/forgemods/required/koreanpatch-forge-1.9.0+mc1.20.1.jar",
-            "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17"
+            "size": 316542,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/23_v1-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
+            "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
           }
         },
         {
