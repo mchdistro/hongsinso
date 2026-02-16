@@ -1,0 +1,11 @@
+{
+  "MCRiderRotationOption": 2,
+  "MCRiderPacketAcceleration": true,
+  "MCRiderRadarOption": 1,
+  "useNoclipCamera": true,
+  "useDraftGauge": true,
+  "useAutoThirdPerson": true,
+  "cameraMode": 3,
+  "MCRiderFOV": 90,
+  "MCRiderFOVEffects": 85
+}

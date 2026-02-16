@@ -1,0 +1,10 @@
+{
+  "whitelist": [
+    "$emojang.com",
+    "$eminecraft.net",
+    "$ctoriifind.json",
+    "$clynn.json"
+  ],
+  "logBlockedRequests": true,
+  "blockPort": 24915
+}
