@@ -2,10 +2,10 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/hongsinso/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "못잠 연말 컨텐츠",
+    "name": "또야몽&왜냐니",
     "description": "Minecraft 1.20.1 (Forge v47.4.8)",
     "icon": "https://github.com/mchdistro/hongsinso/raw/main/server-icon.png",
-    "address": "mc.gotiger.dev:20011",
+    "address": "mc.gotiger.dev:20103",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
