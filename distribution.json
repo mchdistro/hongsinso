@@ -1159,9 +1159,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 13595,
+            "size": 13591,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/05.hibi-1.21.5/files/servers.dat",
-            "MD5": "8785c8ba219048ea7549fc9121636ce1",
+            "MD5": "f9384c079a750444d77aa14c990bc158",
             "path": "servers.dat"
           }
         }
