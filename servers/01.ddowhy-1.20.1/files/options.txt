@@ -34,7 +34,7 @@ gamma:1.0
 renderDistance:8
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:3
+guiScale:2
 particles:0
 maxFps:0
 graphicsMode:1
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/Mizunos 16 Craft JE_1.20.1-1.0_230720.zip","file/Mizunos 16 Craft JE CIT_1.20.1-1.0_230720.zip","file/Invisible Item Frame Pack_1.20.1-1.0_230720.zip","file/Vanilla Mashup 1.4.1b_box.zip"]
-incompatibleResourcePacks:["file/Vanilla Mashup 1.4.1b_box.zip"]
+resourcePacks:["vanilla","mod_resources"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
 soundDevice:""
@@ -119,6 +119,7 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
+key_key.plasmovoice.settings:key.keyboard.v
 key_key.koreanpatch.toggle_langtype:key.keyboard.right.alt
 key_key.koreanpatch.toggle_ime:key.keyboard.i
 key_key.next_image:key.keyboard.down

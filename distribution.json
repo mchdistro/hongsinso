@@ -512,7 +512,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4024,
+            "size": 3839,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/01.ddowhy-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -522,7 +522,7 @@
           "name": "optionsof.txt",
           "type": "File",
           "artifact": {
-            "size": 1347,
+            "size": 1418,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/01.ddowhy-1.20.1/files/optionsof.txt",
             "path": "optionsof.txt"
           }
@@ -532,7 +532,7 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 381,
+            "size": 392,
             "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/01.ddowhy-1.20.1/files/optionsshaders.txt",
             "path": "optionsshaders.txt"
           }

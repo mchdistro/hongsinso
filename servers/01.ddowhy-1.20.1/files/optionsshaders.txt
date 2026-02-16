@@ -1,4 +1,4 @@
-#Sun Dec 21 18:02:17 KST 2025
+#Mon Feb 16 19:53:52 KST 2026
 TexMagFilB=0
 TexMagFilN=0
 TexMagFilS=0
@@ -12,7 +12,7 @@ normalMapEnabled=true
 oldHandLight=default
 oldLighting=default
 renderResMul=1.0
-shaderPack=AstraLex_v93.0.zip
+shaderPack=ComplementaryUnbound_r5.4.zip
 shadowClipFrustrum=true
 shadowResMul=1.0
 specularMapEnabled=true
