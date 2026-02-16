@@ -2,10 +2,10 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/hongsinso/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "이깨굴 컨텐츠",
+    "name": "위험한초대",
     "description": "Minecraft 1.20.1 (Fabric v0.18.4)",
     "icon": "https://github.com/mchdistro/hongsinso/raw/main/server-icon.png",
-    "address": "mc.gotiger.dev:20011",
+    "address": "mc.gotiger.dev:20104",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
