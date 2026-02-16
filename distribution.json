@@ -458,6 +458,16 @@
           }
         },
         {
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GTNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95944,
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/01.ddowhy-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.4.jar",
+            "MD5": "eef1d79a090da14f82ee6f1205fc6c79"
+          }
+        },
+        {
           "id": "immersive_paintings:immersive_paintings:0.6.7+1.20.1@jar",
           "name": "Immersive Paintings",
           "type": "ForgeMod",
