@@ -473,8 +473,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4855034,
-            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/01.ddowhy-1.20.1/forgemods/required/immersive_paintings-0.6.10+1.20.1-forge.jar",
+            "url": "https://github.com/mchdistro/hongsinso/raw/main/servers/01.ddowhy-1.20.1/forgemods/optionalon/immersive_paintings-0.6.10+1.20.1-forge.jar",
             "MD5": "142788dcd63231406d51675b9eff1862"
+          },
+          "required": {
+            "value": false
           }
         },
         {
